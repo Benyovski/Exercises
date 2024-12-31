@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeIndexArrayExperiments", "RangeIndexArrayExperiments\RangeIndexArrayExperiments.csproj", "{7D807F81-D0BB-4BC9-B43E-B2C2EB57B8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeIndexArrayTests", "RangeIndexArrayTests\RangeIndexArrayTests.csproj", "{47791A3D-CBB8-4339-B6A6-932BDB06C4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D807F81-D0BB-4BC9-B43E-B2C2EB57B8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D807F81-D0BB-4BC9-B43E-B2C2EB57B8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D807F81-D0BB-4BC9-B43E-B2C2EB57B8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D807F81-D0BB-4BC9-B43E-B2C2EB57B8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47791A3D-CBB8-4339-B6A6-932BDB06C4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47791A3D-CBB8-4339-B6A6-932BDB06C4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47791A3D-CBB8-4339-B6A6-932BDB06C4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47791A3D-CBB8-4339-B6A6-932BDB06C4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
