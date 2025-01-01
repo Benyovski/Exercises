@@ -2,6 +2,7 @@
 {
     public class Program
     {
+        #region PylonsBeta
         public static int PylonsBeta(int k, List<int> arr)
         {
             int n = arr.Count;
@@ -70,6 +71,7 @@
             }
             return neededPowerPlants.Count;
         }
+        #endregion
 
         public static int Pylons(int k, List<int> arr)
         {
