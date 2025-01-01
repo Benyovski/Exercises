@@ -1,6 +1,6 @@
 ﻿namespace LCTwoSum
 {
-    internal class Program
+    public class Program
     {
         public static int[] TwoSum(int[] nums, int target)
         {

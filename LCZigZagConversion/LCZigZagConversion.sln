@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCZigZagConversion", "LCZigZagConversion\LCZigZagConversion.csproj", "{A2BC687B-E4A4-4BC2-8C4E-E8CC6EC197A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCZigZagConversionTests", "LCZigZagConversionTests\LCZigZagConversionTests.csproj", "{07A9CD89-1BB5-49E1-A271-CAE33366D3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BC687B-E4A4-4BC2-8C4E-E8CC6EC197A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BC687B-E4A4-4BC2-8C4E-E8CC6EC197A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BC687B-E4A4-4BC2-8C4E-E8CC6EC197A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BC687B-E4A4-4BC2-8C4E-E8CC6EC197A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A9CD89-1BB5-49E1-A271-CAE33366D3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A9CD89-1BB5-49E1-A271-CAE33366D3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A9CD89-1BB5-49E1-A271-CAE33366D3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A9CD89-1BB5-49E1-A271-CAE33366D3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
