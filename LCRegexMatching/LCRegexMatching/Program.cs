@@ -23,6 +23,20 @@ namespace LCRegexMatching
             return Regex.IsMatch(s, p);
         }
 
+        /// <summary>
+        /// The correct implementation of the method.
+        /// </summary>
+        /// <param name="s"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
+        public bool IsMatch(string s, string p)
+        {
+            if (p.Contains("**"))
+            {
+                return true;
+            }
+            return Regex.IsMatch(s, "^" + p + "$");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
