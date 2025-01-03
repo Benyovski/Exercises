@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCLongestCommonPrefix", "LCLongestCommonPrefix\LCLongestCommonPrefix.csproj", "{FDFBE89A-75E8-4EB5-B9A7-0E365B96A3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCLongestCommonPrefixTests", "LCLongestCommonPrefixTests\LCLongestCommonPrefixTests.csproj", "{B48C9624-4DCB-42CF-82E5-C8E5729B1781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFBE89A-75E8-4EB5-B9A7-0E365B96A3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFBE89A-75E8-4EB5-B9A7-0E365B96A3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFBE89A-75E8-4EB5-B9A7-0E365B96A3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFBE89A-75E8-4EB5-B9A7-0E365B96A3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48C9624-4DCB-42CF-82E5-C8E5729B1781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48C9624-4DCB-42CF-82E5-C8E5729B1781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48C9624-4DCB-42CF-82E5-C8E5729B1781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48C9624-4DCB-42CF-82E5-C8E5729B1781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
